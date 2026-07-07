@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.siegert-hahnbach.de/sitemap.xml

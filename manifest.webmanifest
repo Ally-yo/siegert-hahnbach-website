@@ -1,0 +1,16 @@
+{
+  "name": "Siegert Hahnbach",
+  "short_name": "Siegert",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0904",
+  "theme_color": "#0d0904",
+  "lang": "de-DE",
+  "icons": [
+    {
+      "src": "assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
